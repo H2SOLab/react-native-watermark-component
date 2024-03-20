@@ -1,5 +1,5 @@
 {
-  "name": "react-native-watermark-component",
+  "name": "@h2solab/react-native-watermark-component",
   "version": "0.1.0",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
