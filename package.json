@@ -15,7 +15,8 @@
     "babel-jest": "^24.5.0",
     "jest": "^24.5.0",
     "metro-react-native-babel-preset": "^0.53.1",
-    "react-test-renderer": "16.8.3"
+    "react-test-renderer": "16.8.3",
+    "deprecated-react-native-prop-types": "^5.0.0"
   },
   "jest": {
     "preset": "react-native"
@@ -27,17 +28,17 @@
   "description": "react-native项目中的水印组件，支持前置水印和后置水印",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yongqianvip/react-native-watermark-view.git"
+    "url": "git+https://github.com/H2SOLab/react-native-watermark-component.git"
   },
   "keywords": [
     "react-native",
     "watermark"
   ],
-  "author": "yongqianvip",
+  "author": ["yongqianvip", "H2SOLab"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yongqianvip/react-native-watermark-view/issues"
+    "url": "https://github.com/H2SOLab/react-native-watermark-component/issues"
   },
-  "homepage": "https://github.com/yongqianvip/react-native-watermark-view#readme"
+  "homepage": "https://github.com/H2SOLab/react-native-watermark-component#readme"
 
 }
