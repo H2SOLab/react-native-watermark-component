@@ -11,10 +11,10 @@ import {
   View,
   Text,
   Dimensions,
-  StyleSheet,
-  ViewPropTypes
+  StyleSheet
 } from 'react-native';
 import PropTypes from 'prop-types';
+import {ViewPropTypes} from 'deprecated-react-native-prop-types';
 
 const WIDTH = Dimensions.get('window').width
 const HEIGHT = Dimensions.get('window').height
