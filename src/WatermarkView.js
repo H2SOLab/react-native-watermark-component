@@ -10,6 +10,7 @@ import React, { Component } from "react";
 import {
   View,
   Text,
+  TextStyle,
   Dimensions,
   StyleSheet
 } from 'react-native';
@@ -31,7 +32,8 @@ class WatermarkView extends React.Component {
     watermark: PropTypes.string,
     itemWidth: PropTypes.number,
     itemHeight: PropTypes.number,
-    watermarkTextStyle: Text.propTypes.style,
+    //watermarkTextStyle: Text.propTypes.style,
+    watermarkTextStyle: TextStyle,
     rotateZ: PropTypes.number
   }
 
